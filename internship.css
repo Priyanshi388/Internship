@@ -10,7 +10,7 @@
 }
 
 .navbar-brand img{
-	height: 100px;
+	height: 110px;
 	padding-left: 30px;
 }
 
@@ -39,6 +39,7 @@
 	color: #555!important;
 }
 
+
 .carousel-caption{
 	top: 20%;
 }
@@ -56,4 +57,8 @@
 
 .changes{
 	font-size: 20px;
+}
+
+#collor{
+	background-color: #A8DADC;
 }
